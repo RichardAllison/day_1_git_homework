@@ -1,4 +1,4 @@
-Project 1 - Full Stack Web Application
-Project 2 - Java/Android Project
-Project 3 - Team JavaScript Project
-Project 4 - Final Project
+Project 1 (week 5)- Full Stack Web Application
+Project 2 (week 9)- Java/Android Project
+Project 3 (week 14) - Team JavaScript Project
+Project 4 (week 16)- Final Project
