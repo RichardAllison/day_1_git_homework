@@ -1,4 +1,11 @@
-Project 1 (week 5, 18-22 Dec) - Full Stack Web Application
-Project 2 (week 9, 29 Jan-2 Feb) - Java/Android Project
-Project 3 (week 14, 5-9 Mar) - Team JavaScript Project
-Project 4 (week 16, 19-23 Mar)- Final Project
+Project 1 (week 5, 18-22 Dec)
+ - Full Stack Web Application
+
+Project 2 (week 9, 29 Jan-2 Feb)
+ - Java/Android Project
+
+Project 3 (week 14, 5-9 Mar)
+ - Team JavaScript Project
+
+Project 4 (week 16, 19-23 Mar)
+ - Final Project
