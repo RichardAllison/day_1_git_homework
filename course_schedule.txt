@@ -1,4 +1,4 @@
-Module 1 (weeks 1-5) - Intro to Programming/Web Development
-Module 2 (weeks 6-9) - Java and Android
-Module 3 (weeks 11-14) - JavaScript
-Module 4 (week 15) - Frameworks
+Module 1 (weeks 1-5, 20 Nov-22 Dec) - Intro to Programming/Web Development
+Module 2 (weeks 6-9, 8 Jan-2 Feb) - Java and Android
+Module 3 (weeks 11-14, 12 Feb-9 Mar) - JavaScript
+Module 4 (week 15, 12-16 Mar) - Frameworks
