@@ -1,0 +1,4 @@
+Project 1 - Full Stack Web Application
+Project 2 - Java/Android Project
+Project 3 - Team JavaScript Project
+Project 4 - Final Project
